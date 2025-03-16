@@ -242,3 +242,5 @@ contract ElectricCar is car ,newcar{
     }
 }
 ```
+
+```
